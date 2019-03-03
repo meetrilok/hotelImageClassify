@@ -25,14 +25,8 @@ SECRET_KEY = '6t918%**s8@^(a5kl=y8ir@^goesxbp9#*c46=#hh#dldf8^fu'
 DEBUG = False
 
 ALLOWED_HOSTS = [
-    'bottledetect007.herokuapp.com',
-    'bottledetect007.herokuapp.com',
+    'tf-classify.herokuapp.com',
     '127.0.0.1',
-    '35.231.19.29',
-    '40.84.128.194',
-    'bottledetect007.southcentralus.cloudapp.azure.com',
-    'bottledetect007.com',
-    'ai-demo.byteridge.com'
 ]
 
 # Application definition
